@@ -1,6 +1,5 @@
 ---
 title: Nuxt是什么，为什么要使用Nuxt？
-date: 2024-6-27
 lastUpdated: true
 ---
 
