@@ -1,6 +1,5 @@
 ---
 title: Nuxt是什么，为什么要使用Nuxt？
-lastUpdated: true
 ---
 
 # Nuxt 是什么，为什么要使用 Nuxt？
