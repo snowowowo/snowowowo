@@ -24,6 +24,9 @@ features:
   - title: Cometa
     details: cometa.fun 创建你的多邻国练习
     link: https://www.cometa.fun
+  - title: Nuxt实用教程
+    details: 以问题为导向的Nuxt教程
+    link: /blogs/nuxt
   - title: X
     details: 在X上关注我
     link: https://x.com/Henry853079501
