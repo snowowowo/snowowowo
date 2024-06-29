@@ -16,3 +16,10 @@
  - [如何一次性查询多个关联表（View视图）？](/blogs/nuxt/supabase-views.md)
  - [我要一次更新多个表，如何保证数据的一致性（RPC）？](/blogs/nuxt/supabase-rpc.md)
  - [查询多个表时还要进行比较复杂的操作，怎么做（Functions）？](/blogs/nuxt/supabase-functions.md)
+## SEO（更新中...）
+ - [如何优化Nuxt应用的SEO？](#)
+ - [如何让谷歌(google)收录你的网站？(GSC)](#)
+ - [如何让必应(bing)收录你的网站？](#)
+ - [如何分析网站存在哪些SEO问题？](#)
+## 网站数据统计（更新中...）
+ - [如何在Nuxt应用中使用(Google Analytics)？](#)
