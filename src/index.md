@@ -21,7 +21,7 @@ hero:
     #   link: /api-examples
 
 features:
-  - title: Cometa
+  - title: Cometa (推荐)
     details: cometa.fun 创建你的多邻国练习
     link: https://www.cometa.fun
   - title: Nuxt实用教程
