@@ -75,7 +75,12 @@ export default defineConfig({
               items: [
                 { text: '如何推广你的网站？', link: '#' },
               ]
-            },
+            }, {
+              text: 'AI',
+              items: [
+                { text: '如何调用AI生成结构化数据?', link: '#' },
+              ]
+            }
           ]
         }
       ],
