@@ -40,7 +40,7 @@ export default defineConfig({
             {
               text: '部署（更新中...）',
               items: [
-                { text: '开发完Nuxt项目后，如何部署到线上(Vercel)？', link: '/blogs/nuxt/deploe-vercel' },
+                { text: '开发完Nuxt项目后，如何部署到线上(Vercel)？', link: '/blogs/nuxt/deploy-vercel' },
                 { text: '开发完Nuxt项目后，如何部署到线上(Cloudflare Pages)？', link: '/blogs/nuxt/deploy-cloudflare-pages' },
                 { text: '部署完成，但是域名不好看，如何自定义域名？', link: '/blogs/nuxt/deploy-custom-domain' },
               ]

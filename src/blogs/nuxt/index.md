@@ -9,7 +9,7 @@
 
 ## 部署工作流
 
-- [开发完 Nuxt 项目后，如何部署到线上(Vercel)？](/blogs/nuxt/deploe-vercel.md)
+- [开发完 Nuxt 项目后，如何部署到线上(Vercel)？](/blogs/nuxt/deploy-vercel.md)
 - [开发完 Nuxt 项目后，如何部署到线上(Cloudflare Pages)？](/blogs/nuxt/deploy-cloudflare-pages.md)<Badge type="info" text="更新中" />
 - [部署完成，但是域名不好看，如何自定义域名？](/blogs/nuxt/deploy-custom-domain.md)<Badge type="info" text="更新中" />
 
