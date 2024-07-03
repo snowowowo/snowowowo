@@ -10,6 +10,8 @@
 2. 无需维护服务器
 3. 免费
 
+这个网站就是用Vercel部署的。
+
 ## 使用Vercel
 
 使用Vercel的思路是这样的，你需要有一个GitHub仓库，然后在Vercel上创建一个新项目，然后把这个仓库和Vercel项目关联起来，以后你只需要在本地push代码到GitHub，Vercel就会自动部署你的网站。
